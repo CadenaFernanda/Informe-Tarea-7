@@ -43,7 +43,7 @@ CONCLUSIONES
 
 Despues de haber analizado la teoria y practica de los temas ya mencionados pudimos llegar a la conclusion de :
 
--Estos teoremass basicos nos permitieron analizar las redes resistivas mas complejas de un circuito ,ademas los teoremas mas utiles de redes son el de superposicion, el de Thevenin, el de Norton y el de maxima transferencia de potencia.
+-
 
 -Los transitorios inductivos resultan cuando los circuitos que contienen inductancia son perturbados. Más aún que los transitorios capacitivos, los transitorios inductivos son potencialmente destructivos y peligrosos. Por ejemplo, si se interrumpe la corriente en un circuito inductivo, puede resultar un pico de voltaje de unos cientos de volts o más que puede dañar fácilmente los componentes electrónicos sensibles si no se toman las debidas precauciones. Los transitorios causados por el inicio del flujo de la corriente no crean estos picos.
 
