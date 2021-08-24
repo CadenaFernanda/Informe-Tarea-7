@@ -162,7 +162,7 @@ c. ¿Cuál es la corriente en t = 10 s?
 
 35- En la figura 13-46, un medidor de inductancia mide 7H. ¿Cuál es la falla probable?
 
-![image](https://user-images.githubusercontent.com/84427371/130568470-1b72d4c1-6a0b-4138-bbc4-41f686c04de1.png)
+![image](https://user-images.githubusercontent.com/84427371/130569192-ad4272de-facb-4a6d-9b4e-99a605e60bda.png)
 
 ![image](https://user-images.githubusercontent.com/84427371/130568412-5f9624eb-b17d-4ba4-933d-006d5739a33b.png)
 
