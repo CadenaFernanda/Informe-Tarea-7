@@ -57,25 +57,53 @@
 
 13-4 Cálculo del voltaje inducido
 
+13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de 100 volts, ¿qué valor tiene L?
 
+15. La figura 13-36 muestra la gráfica del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.
 
+![image](https://user-images.githubusercontent.com/84587091/130555517-50cf08d2-b404-4770-b7ef-b6b4fdd2d4f0.png)
 
+a. ¿Qué valor tiene L?
 
+b. Determine la forma de onda de la corriente y grafíquela.
 
+c. ¿Cuál es la corriente en t = 10 s?
 
+13-5 Inductancias en serie y en paralelo
 
+17. ¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en serie?
 
+19. Repita el problema 17 si las inductancias están conectadas en paralelo.
 
+21. Determine LT para los circuitos de la figura 13-37.
 
+![image](https://user-images.githubusercontent.com/84587091/130555626-f4043dd1-5a7d-4073-be9e-52b4db3fbcb2.png)
 
+23. Una inductancia de 30 μH está conectada en serie con una inductancia de 60 μH, y una inductancia de 10 μH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
 
+25. Para los circuitos de la figura 13-40, determine L3 y L4.
 
+![image](https://user-images.githubusercontent.com/84587091/130555800-f9af8e99-70eb-4c32-829e-c1f95136885f.png)
 
+27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que se agrega una tercera inductancia, LT = 4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
 
+29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT = 6 H, ¿cómo están conectados los inductores?
 
+31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
 
+![image](https://user-images.githubusercontent.com/84587091/130556039-42de6e10-b697-45bf-88aa-2ad7c23162d0.png)
 
+13-7 Inductancia y estado estable de CD
 
+13-8 Energía almacenada por una inductancia
+
+33. Encuentre la energía almacenada en el inductor de la figura 13-44.
+
+13-9 Sugerencias para la resolución de problemas con inductores
+
+35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
+
+![image](https://user-images.githubusercontent.com/84587091/130556142-0ed1d3b8-8acd-452a-83a6-1b59b5ed9863.png)
 
 # CAPITULO 14
 
