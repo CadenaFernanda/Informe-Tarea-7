@@ -193,17 +193,48 @@ b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente despu
 
 a. ¿Cuál es la constante de tiempo del circuito?
 
+![image](https://user-images.githubusercontent.com/84427371/130561977-42e050fe-4cbb-4e5e-89e5-3941fcb89a1e.png)
+
 b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?
+
+![image](https://user-images.githubusercontent.com/84427371/130561996-794f9fa2-4910-4322-9190-c80053555e52.png)
 
 c. Determine las ecuaciones para iL y vL.
 
+![image](https://user-images.githubusercontent.com/84427371/130562018-a349060d-4ca4-4483-9b92-8a22e848e6f8.png)
+
 d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t.
 
+![image](https://user-images.githubusercontent.com/84427371/130562041-e48e68b0-b8fe-4653-b19f-8ebc9ed87097.png)
+
 e. Grafique iL y vL. Marque los ejes en t y en segundos.
+
+![image](https://user-images.githubusercontent.com/84427371/130562070-d45b3914-e823-4242-a008-99f3b49a0d42.png)
 
 7. Repita el problema 5 para el circuito de la figura 14-41 con L = 4 H.
 
 ![image](https://user-images.githubusercontent.com/84587091/130552542-8606db6b-f2ea-4ed8-ab3d-979fafaacec2.png)
+
+a. ¿Cual es la constante de tiempo del circuito?
+
+![image](https://user-images.githubusercontent.com/84427371/130562200-8c28d655-fd97-458f-8cb9-fb2c1cb40a83.png)
+
+b. ¿Cuanto tiempo pasa hasta que la corriente alcanza su valor estable?
+
+![image](https://user-images.githubusercontent.com/84427371/130562226-1bb729d4-d084-42ec-a336-d50b48de966c.png)
+
+c. Determine las ecuaciones para iL y vL.
+
+![image](https://user-images.githubusercontent.com/84427371/130562240-af2e25ce-5bd2-475b-8916-fedff4a80768.png)
+
+d. Calcule los valores para iL y vL a intervalos de una constante de tiempo
+desde t _ 0 hasta 5 t.
+
+![image](https://user-images.githubusercontent.com/84427371/130562292-ee59e0b8-d8e2-425f-95f7-878e2a933e4d.png)
+
+e. Grafique iL y vL. Marque los ejes en t y en segundos.
+
+![image](https://user-images.githubusercontent.com/84427371/130562317-09b9d094-d332-4321-bd3b-9a5f73f1bef3.png)
 
 9. Cierre el interruptor en t = 0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t = 3.4 ms.
 
