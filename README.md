@@ -338,6 +338,7 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 
 # VIDEO:
 
+https://youtu.be/Vh601MyjwWk
 
 # CONCLUSIONES 
 
