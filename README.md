@@ -27,6 +27,7 @@
 
 # CAPITULO 14
 
+![image](https://user-images.githubusercontent.com/84587091/130550996-567cd405-7ba6-43c0-a45c-b31058aac205.png)
 
 # EJERCICIOS
 
