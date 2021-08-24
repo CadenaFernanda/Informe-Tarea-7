@@ -137,25 +137,35 @@ c. ¿Cuál es la corriente en t = 10 s?
 
 ![image](https://user-images.githubusercontent.com/84587091/130555800-f9af8e99-70eb-4c32-829e-c1f95136885f.png)
 
+![image](https://user-images.githubusercontent.com/84427371/130568743-f15faf0d-83b9-4263-942c-46e2f5e68e54.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130568820-afa34ae1-b044-49b4-af29-4b8319561d61.png)
+
 27. Dos inductancias de 6 y 4 H están en conectadas en paralelo. Después de que se agrega una tercera inductancia, LT = 4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
 
-29. Inductancias de 8, 12 y 1.2 H están conectadas en un circuito. Si LT = 6 H, ¿cómo están conectados los inductores?
+![image](https://user-images.githubusercontent.com/84427371/130568858-94203bf2-2387-4ede-a24a-75905c4dcff2.png)
 
-31. Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
+
 
 ![image](https://user-images.githubusercontent.com/84587091/130556039-42de6e10-b697-45bf-88aa-2ad7c23162d0.png)
 
-13-7 Inductancia y estado estable de CD
+
 
 13-8 Energía almacenada por una inductancia
 
 33. Encuentre la energía almacenada en el inductor de la figura 13-44.
 
+
+![image](https://user-images.githubusercontent.com/84427371/130568981-7adbe367-99fa-4b33-87e9-e2a2cd566ea9.png)
+
 13-9 Sugerencias para la resolución de problemas con inductores
 
-35. En la figura 13-46, un medidor de inductancia mide 7 H. ¿Cuál es la falla probable?
+35- En la figura 13-46, un medidor de inductancia mide 7H. ¿Cuál es la falla probable?
 
-![image](https://user-images.githubusercontent.com/84587091/130556142-0ed1d3b8-8acd-452a-83a6-1b59b5ed9863.png)
+![image](https://user-images.githubusercontent.com/84427371/130568470-1b72d4c1-6a0b-4138-bbc4-41f686c04de1.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130568412-5f9624eb-b17d-4ba4-933d-006d5739a33b.png)
+
 
 # CAPITULO 14
 
@@ -342,11 +352,6 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 
 ![image](https://user-images.githubusercontent.com/84427371/130568314-64dc8593-1482-45a1-94d6-f5fe15c68928.png)
 
-35- En la figura 13-46, un medidor de inductancia mide 7H. ¿Cuál es la falla probable?
-
-![image](https://user-images.githubusercontent.com/84427371/130568470-1b72d4c1-6a0b-4138-bbc4-41f686c04de1.png)
-
-![image](https://user-images.githubusercontent.com/84427371/130568412-5f9624eb-b17d-4ba4-933d-006d5739a33b.png)
 
 # VIDEO:
 
