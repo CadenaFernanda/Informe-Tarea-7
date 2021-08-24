@@ -33,6 +33,49 @@
 
 # CAPITULO 13
 
+13-2 Voltaje inducido e inducción
+
+1. Si el flujo que enlaza una bobina de 75 vueltas (figura 13-29) cambia a la tasa de 3 Wb/s, ¿cuál es el voltaje en la bobina?
+
+![image](https://user-images.githubusercontent.com/84587091/130554539-2f29a89d-56c8-4c20-9349-6bea1e8dfc71.png)
+
+3. El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0.01 s?
+
+13.3 Autoinductancia
+
+5. La corriente en un inductor de 75 mH (figura 13-30) cambia uniformemente por 200 μA en 0.1 ms. ¿Cuál es el voltaje en él?
+
+![image](https://user-images.githubusercontent.com/84587091/130554696-ec54c83f-4bab-4576-8ff5-152ea545dd3f.png)
+
+7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para que la corriente cambie de 3 a 5 amperes?
+
+9. Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si l = 20 cm, N = 200 vueltas, y d = 2 cm.
+
+11. El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI = Ha.la. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina, el enlace de flujo es igual a N	. Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es
+
+![image](https://user-images.githubusercontent.com/84587091/130555303-4e07eb7e-06fc-4c3d-95d1-1d98e37ddb44.png)
+
+13-4 Cálculo del voltaje inducido
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # CAPITULO 14
 
@@ -89,6 +132,53 @@ b. Determine las ecuaciones para iL y vL.
 c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t.
 
 d. Grafique iL y vL. Marque el eje en t y en segundos.
+
+17. Dado vL=-2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms.
+
+19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
+
+![image](https://user-images.githubusercontent.com/84587091/130553325-b2f75bc6-ed0c-4d57-a825-614067b81c95.png)
+
+![image](https://user-images.githubusercontent.com/84587091/130553355-e0e32560-77dd-449d-80b3-e086ea7fa7d2.png)
+
+14-5 Circuitos más complejos
+
+21. Para la bobina de la figura 14-45 Rl = 1.7 Ω y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
+
+![image](https://user-images.githubusercontent.com/84587091/130553480-8460bae4-91bf-43de-b097-384e24465a68.png)
+
+23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
+
+![image](https://user-images.githubusercontent.com/84587091/130553628-6818658f-e8d3-421e-b7f2-ebe8ff81dd5a.png)
+
+a. Determine la constante de tiempo del circuito desenergizado.
+
+b. Determine las ecuaciones para iL y vL.
+
+c. Encuentre el voltaje en el inductor y la corriente a través de él en t = 17.8 μs, use las ecuaciones que se determinaron antes.
+
+25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47.
+
+b. ¿Cuánto es iL y vL en t = 25 ms?
+
+![image](https://user-images.githubusercontent.com/84587091/130553693-728846a6-ef9e-4fdc-8504-38cadc0fe931.png)
+
+27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
+
+![image](https://user-images.githubusercontent.com/84587091/130553774-38b922fe-3602-4f02-a797-11d82242a0d0.png)
+
+14-6 Transitorios RL con computadora
+
+29. El circuito de la figura 14-46 está en estado estable con el interruptor abierto. En t = 0, se cierra y permanece así. Grafique el voltaje en L y encuentre vL en 20 ms con el cursor.
+
+![image](https://user-images.githubusercontent.com/84587091/130553628-6818658f-e8d3-421e-b7f2-ebe8ff81dd5a.png)
+
+31. Para la figura 14-46, sea L1 = 30 mH y L2 = 90 mH. Cierre el interruptor en t = 0 y determine la corriente en el resistor de 30 Ω en t = 2ms.
+
+![image](https://user-images.githubusercontent.com/84587091/130553628-6818658f-e8d3-421e-b7f2-ebe8ff81dd5a.png)
+
+33. Se resolvió el circuito de la figura 14-22(a) mediante la reducción a su equivalente de Thévenin. Use PSpice para analizar el circuito en su forma original y grafique la corriente del inductor. Verifique algunos puntos en la curva calculando los valores de acuerdo con la solución del ejemplo 14-8 y compare con los valores que obtuvo en la pantalla.
+
 
 # VIDEO:
 
