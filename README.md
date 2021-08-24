@@ -240,6 +240,8 @@ e. Grafique iL y vL. Marque los ejes en t y en segundos.
 
 ![image](https://user-images.githubusercontent.com/84587091/130552648-81f5395b-2113-44e3-bd15-a0f50cefd458.png)
 
+![image](https://user-images.githubusercontent.com/84427371/130566503-d5ff14d4-1f74-4377-bdb9-81e0c28c4a45.png)
+
 11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
 
 ![image](https://user-images.githubusercontent.com/84427371/130558442-bfdbc6d8-152a-4a1e-96ca-d41d8390a227.png)
