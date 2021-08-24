@@ -39,7 +39,13 @@
 
 ![image](https://user-images.githubusercontent.com/84587091/130554539-2f29a89d-56c8-4c20-9349-6bea1e8dfc71.png)
 
+![image](https://user-images.githubusercontent.com/84587120/130559496-4fb88fbd-d393-421a-970c-e70f788046b4.png)
+
+
 3. El flujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de flujo ocurre en 0.01 s?
+
+![image](https://user-images.githubusercontent.com/84587120/130559527-93bc5c7d-b383-4c29-95a5-1cd45cb86ecc.png)
+
 
 13.3 Autoinductancia
 
@@ -47,17 +53,32 @@
 
 ![image](https://user-images.githubusercontent.com/84587091/130554696-ec54c83f-4bab-4576-8ff5-152ea545dd3f.png)
 
+![image](https://user-images.githubusercontent.com/84587120/130559553-bb9e9aa4-8bfd-4118-9281-3ccdb5d19040.png)
+
+
 7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará para que la corriente cambie de 3 a 5 amperes?
 
+![image](https://user-images.githubusercontent.com/84587120/130559566-fd862495-c333-4307-b7bb-0227212b603b.png)
+
+
 9. Calcule la inductancia de la bobina de núcleo de aire de la figura 13-31, si l = 20 cm, N = 200 vueltas, y d = 2 cm.
+
+![image](https://user-images.githubusercontent.com/84587120/130559590-bdafd104-d1f1-4a8e-afc5-3ef3563fa1fe.png)
+
 
 11. El inductor de núcleo de hierro de la figura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI = Ha.la. Debido a que el espacio de aire predomina, no ocurre la saturación y el flujo del núcleo es proporcional a la corriente, es decir, el enlace de flujo es igual a LI. Adicionalmente, ya que todo el flujo pasa a través de la bobina, el enlace de flujo es igual a N	. Al igualar los dos valores del enlace de flujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es
 
 ![image](https://user-images.githubusercontent.com/84587091/130555303-4e07eb7e-06fc-4c3d-95d1-1d98e37ddb44.png)
 
+![image](https://user-images.githubusercontent.com/84587120/130559656-10518abf-ae18-400b-bd01-a2040709cd4f.png)
+
+![image](https://user-images.githubusercontent.com/84587120/130559673-16aa7949-9afc-42b5-b542-c430150b53a9.png)
+
 13-4 Cálculo del voltaje inducido
 
 13. La figura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 ms es de 100 volts, ¿qué valor tiene L?
+
+![image](https://user-images.githubusercontent.com/84587120/130559787-b0f37c20-3caf-4a26-b23d-7b8e4c69ba85.png)
 
 15. La figura 13-36 muestra la gráfica del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.
 
