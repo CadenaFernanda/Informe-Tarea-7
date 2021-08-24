@@ -335,23 +335,6 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 
 
 
-14-6 Transitorios RL con computadora
-
-29. El circuito de la figura 14-46 está en estado estable con el interruptor abierto. En t = 0, se cierra y permanece así. Grafique el voltaje en L y encuentre vL en 20 ms con el cursor.
-
-![image](https://user-images.githubusercontent.com/84587091/130553628-6818658f-e8d3-421e-b7f2-ebe8ff81dd5a.png)
-
-31. Para la figura 14-46, sea L1 = 30 mH y L2 = 90 mH. Cierre el interruptor en t = 0 y determine la corriente en el resistor de 30 Ω en t = 2ms.
-
-![image](https://user-images.githubusercontent.com/84587091/130553628-6818658f-e8d3-421e-b7f2-ebe8ff81dd5a.png)
-
-33. Se resolvió el circuito de la figura 14-22(a) mediante la reducción a su equivalente de Thévenin. Use PSpice para analizar el circuito en su forma original y grafique la corriente del inductor. Verifique algunos puntos en la curva calculando los valores de acuerdo con la solución del ejemplo 14-8 y compare con los valores que obtuvo en la pantalla.
-
-
-![image](https://user-images.githubusercontent.com/84427371/130568232-d1557dda-af0e-43fc-b3d0-705ede606cbf.png)
-
-![image](https://user-images.githubusercontent.com/84427371/130568314-64dc8593-1482-45a1-94d6-f5fe15c68928.png)
-
 
 # VIDEO:
 
