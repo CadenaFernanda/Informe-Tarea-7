@@ -63,23 +63,54 @@
 
 ![image](https://user-images.githubusercontent.com/84587091/130555517-50cf08d2-b404-4770-b7ef-b6b4fdd2d4f0.png)
 
+![image](https://user-images.githubusercontent.com/84427371/130556929-54b08ae5-a76a-43e2-ba6a-0f25091ae3f5.png)
+
+
 a. ¿Qué valor tiene L?
+
+![image](https://user-images.githubusercontent.com/84427371/130557261-9b9b35d8-1a07-4544-a6d8-80069e7ddb24.png)
 
 b. Determine la forma de onda de la corriente y grafíquela.
 
+![image](https://user-images.githubusercontent.com/84427371/130557305-a480fe45-4b30-4914-9519-e4fa3168c2fe.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130557385-3c24472c-554a-4318-aed1-cc261649c906.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130557455-721a47cf-875c-4311-bc1c-1630a5337a7d.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130557505-05a96c67-f67b-4433-8e3a-019ce48f4dc9.png)
+
 c. ¿Cuál es la corriente en t = 10 s?
+
+![image](https://user-images.githubusercontent.com/84427371/130557526-043f83fd-89a1-4f31-9e4e-72fcb2ce2170.png)
 
 13-5 Inductancias en serie y en paralelo
 
 17. ¿Cuál es la inductancia equivalente de 12, 14, 22, y 36 mH conectados en serie?
 
+![image](https://user-images.githubusercontent.com/84427371/130557551-4781c7c5-aa10-427e-9676-027cfd84139f.png)
+
 19. Repita el problema 17 si las inductancias están conectadas en paralelo.
+
+![image](https://user-images.githubusercontent.com/84427371/130557614-936f3b74-fcf5-42ea-ba73-c845f43951ee.png)
 
 21. Determine LT para los circuitos de la figura 13-37.
 
 ![image](https://user-images.githubusercontent.com/84587091/130555626-f4043dd1-5a7d-4073-be9e-52b4db3fbcb2.png)
 
+![image](https://user-images.githubusercontent.com/84427371/130557660-ed1e6361-5e21-4171-b1b0-1993e64f3062.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130557695-db848666-dad3-46a7-a88d-1612eafb19ff.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130557767-7b994d89-17de-451b-942f-5f10f63eebba.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130557816-f0484392-b7ab-4b16-94e3-06124eab92c2.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130557834-4024a89d-d48d-40fc-92ba-d28da5c9ad57.png)
+
 23. Una inductancia de 30 μH está conectada en serie con una inductancia de 60 μH, y una inductancia de 10 μH está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
+
+![image](https://user-images.githubusercontent.com/84427371/130557964-29ff9d6c-334a-4c06-8bdc-35d37ba39b51.png)
 
 25. Para los circuitos de la figura 13-40, determine L3 y L4.
 
@@ -115,9 +146,23 @@ b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente despu
 
 ![image](https://user-images.githubusercontent.com/84587091/130552266-cf38d436-759d-4c50-836c-330d3d2f739a.png)
 
+![image](https://user-images.githubusercontent.com/84427371/130558200-40a77195-025f-4ff1-bba4-3bb5e198d383.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130558228-8ebe092e-3665-46b9-8b42-b95924d733c3.png)
+
 3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
 
 ![image](https://user-images.githubusercontent.com/84587091/130552372-ddcf8011-385a-48fb-a572-ca352142a93b.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130558261-e82181c1-f938-4c1c-843f-e7199e3d830e.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130558285-568cc3ac-c6fb-4864-bd14-1ec350374699.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130558346-4170692a-a674-4e6e-a82c-f58e8aa4cf53.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130558377-11b814e9-4cc0-4bbc-a092-112587c47aaa.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130558405-17132975-4133-4cd3-a6a9-915c4b9fd9b3.png)
 
 14-2 Transitorio de corriente creciente
 
@@ -145,7 +190,13 @@ e. Grafique iL y vL. Marque los ejes en t y en segundos.
 
 11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
 
+![image](https://user-images.githubusercontent.com/84427371/130558442-bfdbc6d8-152a-4a1e-96ca-d41d8390a227.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130558473-11575847-6145-4fe7-a43f-0d37ac55eaa5.png)
+
 13. Para la figura 14-1(b), si vL = 40e^2000t V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
+
+![image](https://user-images.githubusercontent.com/84427371/130558595-4c994d95-483e-45e9-82ed-c811abd125f1.png)
 
 14-4 Transitorios desenergizantes
 
@@ -155,13 +206,25 @@ e. Grafique iL y vL. Marque los ejes en t y en segundos.
 
 a. ¿Cuál es la constante de tiempo en la fase de disminución?
 
+![image](https://user-images.githubusercontent.com/84427371/130558664-96e86a67-31bb-42c9-aace-dc700be30c86.png)
+
 b. Determine las ecuaciones para iL y vL.
 
-c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t.
+![image](https://user-images.githubusercontent.com/84427371/130558678-5fb30ab6-ac72-4b73-9994-0f95d89d7d1a.png)
+
+c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 3 t.
+
+![image](https://user-images.githubusercontent.com/84427371/130558716-f1dffa0f-a0a0-42ad-8bab-9c116d1af8c2.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130558764-19de19b0-15e0-41de-bd5e-754b7c456a63.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130558801-ebb6e8c6-dec9-4ed4-9188-8e28fa0e03f3.png)
 
 d. Grafique iL y vL. Marque el eje en t y en segundos.
 
 17. Dado vL=-2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms.
+
+![image](https://user-images.githubusercontent.com/84427371/130558875-468e9597-56d1-47b3-8c43-bf53d2a9ba91.png)
 
 19. Para la figura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la figura 14-44. Determine R1 y R2.
 
@@ -169,15 +232,21 @@ d. Grafique iL y vL. Marque el eje en t y en segundos.
 
 ![image](https://user-images.githubusercontent.com/84587091/130553355-e0e32560-77dd-449d-80b3-e086ea7fa7d2.png)
 
+![image](https://user-images.githubusercontent.com/84427371/130558923-f0d7abc4-6913-4d02-9802-f7fcaeddd9a1.png)
+
 14-5 Circuitos más complejos
 
 21. Para la bobina de la figura 14-45 Rl = 1.7 Ω y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
 
 ![image](https://user-images.githubusercontent.com/84587091/130553480-8460bae4-91bf-43de-b097-384e24465a68.png)
 
+![image](https://user-images.githubusercontent.com/84427371/130558952-153062f4-7965-4265-9f1a-3aa53b740333.png)
+
 23. Para la figura 14-46, el circuito ha alcanzado el estado estable con el interruptor cerrado. Ahora se abre el interruptor.
 
 ![image](https://user-images.githubusercontent.com/84587091/130553628-6818658f-e8d3-421e-b7f2-ebe8ff81dd5a.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130558980-2e58cdd9-e985-48ce-9262-811652159ca5.png)
 
 a. Determine la constante de tiempo del circuito desenergizado.
 
@@ -194,6 +263,8 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
 
 ![image](https://user-images.githubusercontent.com/84587091/130553774-38b922fe-3602-4f02-a797-11d82242a0d0.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130559010-a621ac4b-c14c-4edf-a8b6-92cb55201363.png)
 
 14-6 Transitorios RL con computadora
 
