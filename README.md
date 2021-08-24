@@ -33,7 +33,36 @@
 
 # CAPITULO 13
 
+
 # CAPITULO 14
+
+14-1 Introducción
+
+1. a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?
+
+b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente después de que el interruptor se cierra.
+
+![image](https://user-images.githubusercontent.com/84587091/130552266-cf38d436-759d-4c50-836c-330d3d2f739a.png)
+
+3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
+
+![image](https://user-images.githubusercontent.com/84587091/130552372-ddcf8011-385a-48fb-a572-ca352142a93b.png)
+
+14-2 Transitorio de corriente creciente
+
+5. El interruptor de la figura 14-39 está cerrado en t = 0 s.
+
+![image](https://user-images.githubusercontent.com/84587091/130552481-c9640043-cbd9-47e9-b63e-c54d163d6643.png)
+
+a. ¿Cuál es la constante de tiempo del circuito?
+
+b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?
+
+c. Determine las ecuaciones para iL y vL.
+
+d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t.
+
+e. Grafique iL y vL. Marque los ejes en t y en segundos.
 
 # VIDEO:
 
