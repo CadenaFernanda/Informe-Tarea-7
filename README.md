@@ -302,23 +302,28 @@ d. Grafique iL y vL. Marque el eje en t y en segundos.
 
 ![image](https://user-images.githubusercontent.com/84427371/130558980-2e58cdd9-e985-48ce-9262-811652159ca5.png)
 
-a. Determine la constante de tiempo del circuito desenergizado.
 
-b. Determine las ecuaciones para iL y vL.
-
-c. Encuentre el voltaje en el inductor y la corriente a través de él en t = 17.8 μs, use las ecuaciones que se determinaron antes.
 
 25. a. Repita el problema 22, partes (a) y (b) para el circuito de la figura 14-47.
+
+
+![image](https://user-images.githubusercontent.com/84427371/130567960-280a945c-0e8b-44dc-9b00-020dbdc34c66.png)
 
 b. ¿Cuánto es iL y vL en t = 25 ms?
 
 ![image](https://user-images.githubusercontent.com/84587091/130553693-728846a6-ef9e-4fdc-8504-38cadc0fe931.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130568014-5d59e2b6-0b58-4f8b-99d4-083f5472d2e5.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130568048-c5b971d9-3469-4596-a035-8168a1f8f8ce.png)
 
 27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltaje a circuito abierto de 45 volts. Cuando sus terminales de salida se ponen en corto, la corriente de cortocircuito es 0.15 A. Un interruptor, resistor e inductancia están conectados (figura 14-48). Determine la corriente y el voltaje del inductor, 2.5 ms después que el interruptor se ha cerrado.
 
 ![image](https://user-images.githubusercontent.com/84587091/130553774-38b922fe-3602-4f02-a797-11d82242a0d0.png)
 
 ![image](https://user-images.githubusercontent.com/84427371/130559010-a621ac4b-c14c-4edf-a8b6-92cb55201363.png)
+
+
 
 14-6 Transitorios RL con computadora
 
@@ -332,6 +337,16 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 
 33. Se resolvió el circuito de la figura 14-22(a) mediante la reducción a su equivalente de Thévenin. Use PSpice para analizar el circuito en su forma original y grafique la corriente del inductor. Verifique algunos puntos en la curva calculando los valores de acuerdo con la solución del ejemplo 14-8 y compare con los valores que obtuvo en la pantalla.
 
+
+![image](https://user-images.githubusercontent.com/84427371/130568232-d1557dda-af0e-43fc-b3d0-705ede606cbf.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130568314-64dc8593-1482-45a1-94d6-f5fe15c68928.png)
+
+35- En la figura 13-46, un medidor de inductancia mide 7H. ¿Cuál es la falla probable?
+
+![image](https://user-images.githubusercontent.com/84427371/130568470-1b72d4c1-6a0b-4138-bbc4-41f686c04de1.png)
+
+![image](https://user-images.githubusercontent.com/84427371/130568412-5f9624eb-b17d-4ba4-933d-006d5739a33b.png)
 
 # VIDEO:
 
