@@ -64,8 +64,33 @@ d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desd
 
 e. Grafique iL y vL. Marque los ejes en t y en segundos.
 
-# VIDEO:
+7. Repita el problema 5 para el circuito de la figura 14-41 con L = 4 H.
 
+![image](https://user-images.githubusercontent.com/84587091/130552542-8606db6b-f2ea-4ed8-ab3d-979fafaacec2.png)
+
+9. Cierre el interruptor en t = 0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t = 3.4 ms.
+
+![image](https://user-images.githubusercontent.com/84587091/130552648-81f5395b-2113-44e3-bd15-a0f50cefd458.png)
+
+11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L.
+
+13. Para la figura 14-1(b), si vL = 40e^2000t V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
+
+14-4 Transitorios desenergizantes
+
+15. Para la figura 14-43, R1 = 20 Ω, R2 = 230 Ω y L = 0.5 H y la corriente del inductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t = 0 s, el interruptor se abre.
+
+![image](https://user-images.githubusercontent.com/84587091/130553036-dc6bcb1d-5205-4878-a6dc-3810c7ce1b67.png)
+
+a. ¿Cuál es la constante de tiempo en la fase de disminución?
+
+b. Determine las ecuaciones para iL y vL.
+
+c. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t.
+
+d. Grafique iL y vL. Marque el eje en t y en segundos.
+
+# VIDEO:
 
 
 # CONCLUSIONES 
